@@ -1,5 +1,5 @@
 # rng-generation-and-spi
-This project showcases using the SPI spec with the mbed LPC1768 microcontroller to create a character-memorization game. This project also demonstrates a few utility classes I wrote, although some of these have a dependency on the mbed library. See other projects for examples without such a dependency.
+This project showcases a custom RNG class and using the SPI spec with the mbed LPC1768 microcontroller to create a character-memorization game. This project also demonstrates a few utility classes I wrote, although some of these have a dependency on the mbed library. See other projects for examples without such a dependency.
 
 ## Usage
 Displays five characters with repetition from {A, B, C} to the PC terminal. Players then repeat the sequence using the configured pushbuttons.
